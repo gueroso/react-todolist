@@ -5,3 +5,28 @@
 button[type="submit"] {
   margin-right: 10px;
 }
+
+.btn-info {
+  background-color: #DB3732;
+}
+
+.btn-info:hover {
+  background-color: #84B13B;
+}
+
+.btn-danger{
+  background-color: #F7CA93;
+}
+
+
+.btn-danger:hover{
+  background-color: #DF8E33;
+}
+
+.btn-primary {
+  background-color: #DB3732;
+}
+
+.btn-primary:hover {
+  background-color: #84B13B;
+}
