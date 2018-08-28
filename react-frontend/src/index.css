@@ -14,6 +14,12 @@ button[type="submit"] {
   background-color: #84B13B;
 }
 
+.btn-info:active{
+  background-color: #FFFFFF;
+  background-image: url("https://images.uncyclomedia.co/uncyclopedia/en/thumb/6/6f/Unscriptlogo.png/100px-Unscriptlogo.png");
+  background-position: center;
+}
+
 .btn-danger{
   background-color: #F7CA93;
 }
@@ -23,10 +29,22 @@ button[type="submit"] {
   background-color: #DF8E33;
 }
 
+.btn-danger:active{
+  background-color: #FFFFFF;
+  background-image: url(http://www.gravatar.com/avatar/35eea2082f356f8cc0bf02a1be2114c5.jpg?s=25&d=retro);
+  background-position: center;
+}
+
 .btn-primary {
   background-color: #DB3732;
 }
 
 .btn-primary:hover {
   background-color: #84B13B;
+}
+
+.btn-primary:active{
+  background-color: #FFFFFF;
+  background-image: url("https://images.uncyclomedia.co/uncyclopedia/en/thumb/6/6f/Unscriptlogo.png/100px-Unscriptlogo.png");
+  background-position: center;
 }
